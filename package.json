@@ -1,7 +1,7 @@
 {
   "name": "rf-fields-utils",
   "version": "0.1.0",
-  "description": "utils for build rf-fields",
+  "description": "utils for build rf-fields.",
   "main": "index.js",
   "repository": {
     "type": "git",
