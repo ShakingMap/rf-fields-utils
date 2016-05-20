@@ -1,0 +1,17 @@
+{
+  "name": "rf-fields-utils",
+  "version": "0.1.0",
+  "description": "utils for build rf-fields",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShakingMap/rf-fields-utils.git"
+  },
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShakingMap/rf-fields-utils/issues"
+  },
+  "homepage": "https://github.com/ShakingMap/rf-fields-utils#readme",
+  "keywords": ["react", "form", "rf-form"]
+}
