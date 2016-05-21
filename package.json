@@ -1,6 +1,6 @@
 {
   "name": "rf-fields-utils",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "utils for build rf-fields.",
   "main": "index.js",
   "repository": {
